@@ -1,0 +1,8 @@
+- [x] Implement list_employees() in lib/helpers.py
+- [x] Implement find_employee_by_name() in lib/helpers.py
+- [x] Implement find_employee_by_id() in lib/helpers.py
+- [x] Implement create_employee() in lib/helpers.py
+- [x] Implement update_employee() in lib/helpers.py
+- [x] Implement delete_employee() in lib/helpers.py
+- [x] Implement list_department_employees() in lib/helpers.py
+- [ ] Test the implementations by running pipenv run python lib/cli.py and selecting options 7-13
